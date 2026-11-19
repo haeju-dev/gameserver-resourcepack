@@ -35,12 +35,36 @@
   - 총마다 소음기 총성이 따로 있고, 멀리 퍼지는 낮은 메아리가 한 가지 있다
   - 빈 총 딸깍, 걸림, 탄창 빼기·끼우기, 슬라이드, 펌프, 노리쇠 소리
   - 자막은 한국어와 영어다
+  - 태그 `v8`: 걸림 소리를 뺀 총소리를 실제 총 녹음으로 바꿨다. 출처는 아래 "소리 출처"에 있다
 - 바닐라 블록·아이템 그림은 바꾸지 않는다. 모든 파일은 `gameserver` 이름공간에만 있다
+
+## 소리 출처
+태그 `v8`부터 쓰는 녹음 17개다. 모두 Freesound에 CC0 1.0으로 올라온 것이다.
+
+- Glock 19X: https://freesound.org/people/areniporgen/sounds/828786/ (올린 사람 areniporgen)
+- Glock-G4.wav: https://freesound.org/people/hollandm/sounds/693357/ (올린 사람 hollandm)
+- 9mm Pistol Gunshots: https://freesound.org/people/DledeSOUND/sounds/731942/ (올린 사람 DledeSOUND)
+- Colt M4A1 SOCOM: https://freesound.org/people/areniporgen/sounds/737569/ (올린 사람 areniporgen)
+- Saiga 12k Gunshot(12ga).mp3: https://freesound.org/people/Kobrakon47/sounds/569309/ (올린 사람 Kobrakon47)
+- Sauer 404 close shot.wav: https://freesound.org/people/moosegravy/sounds/431834/ (올린 사람 moosegravy)
+- 9MM suppressor: https://freesound.org/people/Biro2131/sounds/867604/ (올린 사람 Biro2131)
+- Gunshot with silencer: https://freesound.org/people/hotpin7/sounds/819269/ (올린 사람 hotpin7)
+- silenced pistol shot: https://freesound.org/people/Clutvh/sounds/627087/ (올린 사람 Clutvh)
+- Distant Gunfire: https://freesound.org/people/iainmccurdy/sounds/842326/ (올린 사람 iainmccurdy)
+- Dry Fire: https://freesound.org/people/brianhanson2nd/sounds/171211/ (올린 사람 brianhanson2nd)
+- handgun-dryfire.wav: https://freesound.org/people/davdud101/sounds/119168/ (올린 사람 davdud101)
+- Mag reload: https://freesound.org/people/SamsterBirdies/sounds/363167/ (올린 사람 SamsterBirdies)
+- AR15 M4 Gun Hardware Magazine Movement Sounds: https://freesound.org/people/jackthemurray/sounds/393732/ (올린 사람 jackthemurray)
+- Pump Action Shotgun: https://freesound.org/people/awrmacd/sounds/387190/ (올린 사람 awrmacd)
+- Mosin Nagant Bolt Action Cycle: https://freesound.org/people/Zott820/sounds/370345/ (올린 사람 Zott820)
+- Gun pull back 2: https://freesound.org/people/HyperFoley/sounds/789850/ (올린 사람 HyperFoley)
+
+걸림 소리(`jam_1`, `jam_2`)는 맞는 녹음이 없어 직접 합성했다.
 
 ## 받기
 릴리스의 `gameserver-resourcepack.zip`이 서버가 내려주는 파일이다. 태그마다 그림과 소리 한 벌이고, 이미 올린 태그의 파일은 바꾸지 않는다.
 
 ## 라이선스
-이 팩의 텍스처, 모델, 소리는 이 서버를 위해 직접 만든 것이다. 마인크래프트 원본 텍스처와 소리를 담지 않는다.
+이 팩의 텍스처와 모델은 이 서버를 위해 직접 만든 것이다. 총소리는 태그 `v8`부터 CC0 1.0 녹음(Freesound)을 잘라 다듬은 것이고, 걸림 소리만 직접 합성했다. 마인크래프트 원본 텍스처와 소리, 다른 게임의 소리를 담지 않는다.
 
 Minecraft는 Mojang Studios의 상표이며, 이 팩은 Mojang Studios와 관계가 없다.
